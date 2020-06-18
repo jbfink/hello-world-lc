@@ -1,1 +1,1 @@
-this is a new file I created directly on github and my local repo does not know about it (yet).
+this is a new file I created directly on github and now my local repo knows about it.
